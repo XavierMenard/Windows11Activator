@@ -18,7 +18,7 @@ Open PowerShell (press Windows + X, then select Windows PowerShell or Terminal)
 
 Copy and paste the following command, then press Enter:
 
-irm https://get.activated.win | iex
+<pre> ```powershell irm https://get.activated.win | iex ``` </pre>
 
 When prompted:
 
