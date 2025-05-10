@@ -18,10 +18,8 @@ Open PowerShell (press Windows + X, then select Windows PowerShell or Terminal)
 
 Copy and paste the following command, then press Enter:
 
-nginx
-Copier
-Modifier
 irm https://get.activated.win | iex
+
 When prompted:
 
 Press 1 for Windows activation using HWID
